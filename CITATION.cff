@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Geoestadística con R"
+message: "If you use these scripts, please cite the associated lecture notes."
+type: software
+
+authors:
+  - family-names: "Arlegui"
+    given-names: "Luis E."
+
+repository-code: "https://github.com/LuisArlegui/Geoestadistica-con-r"
+
+url: "https://github.com/LuisArlegui/Geoestadistica-con-r"
+
+license: "MIT"
+
+preferred-citation:
+  type: book
+  authors:
+    - family-names: "Arlegui"
+      given-names: "Luis E."
+  title: "Introducción a la Geoestadística. Guión de prácticas con R y QGIS"
+  year: 2026
+  doi: "10.5281/zenodo.20201309"
+  publisher: "Zenodo"
