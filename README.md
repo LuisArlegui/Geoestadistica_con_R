@@ -1,5 +1,13 @@
 # Geoestadística con R
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20201309-blue.svg)](https://doi.org/10.5281/zenodo.20201309)
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+[![R](https://img.shields.io/badge/language-R-blue.svg)](https://www.r-project.org/)
+
+[![Version](https://img.shields.io/badge/version-v1.0-green.svg)]()
+
 Colección de scripts en R utilizados en el bloque correspondiente de la asignatura  _Geoestadística, Teledetección y GIS_ del Máster en Geología Aplicada a la Ingeniería y el Medio Ambiente de la Universidad de Zaragoza.
 
 Los scripts acompañan al libro docente:
