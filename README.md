@@ -1,6 +1,6 @@
 # Geoestadística con R
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20201309-blue.svg)](https://doi.org/10.5281/zenodo.20201309)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20201308-blue.svg)](https://doi.org/10.5281/zenodo.20201308)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
