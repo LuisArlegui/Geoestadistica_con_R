@@ -12,8 +12,8 @@ Colección de scripts en R utilizados en el bloque correspondiente de la asignat
 
 Los scripts acompañan al libro docente:
 
-> **Arlegui, L. E. (2026). _Apuntes de Geoestadística: teoría y aplicaciones en R_.**  
-> DOI: https://doi.org/10.5281/zenodo.20201309
+> **Arlegui, L. E. (2026). _Introducción a la Geoestadística. Guión de prácticas con R y QGIS_.**  
+> DOI: https://doi.org/10.5281/zenodo.20201308
 
 Los ejercicios responden a cuestiones y ejemplos planteados en el libro, aunque con un esfuerzo mínimo pueden adaptarse a flujos de trabajo independientes, ya que la mayoría utilizan rutas relativas y nombres de fichero genéricos fácilmente editables.
 
